@@ -1,0 +1,99 @@
+body{
+    background-color: rgba(132, 255, 255, 0.784);
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-shadow: 3px 3px 1px rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+h3{
+    color: rgb(0, 0, 0);
+    text-shadow: 3px 3px 1px rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+form{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+#item-1{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 20px;
+    margin: 22px;
+    border-radius: 20px;
+    background-color: rgb(208, 249, 220);
+}
+#item-2{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 22px;
+    border-radius: 20px;
+    background-color: rgb(208, 249, 220)
+}
+#item-3{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 22px;
+    border-radius: 20px;
+    background-color:rgb(208, 249, 220)
+}
+#item-4{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 22px;
+    border-radius: 20px;
+    background-color:rgb(208, 249, 220)
+}#item-5{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 22px;
+    border-radius: 20px;
+    background-color: rgb(208, 249, 220)
+}
+#item-1 img{
+    height: 170px;
+    width: 210px;
+    display: block;
+    margin: 25px 450px;
+    border-radius: 100%;
+}
+#item-2 img{
+    height: 170px;
+    width: 210px;
+    display: block;
+    margin: 25px 450px;
+    border-radius: 100%;
+}
+#item-3 img{
+    height: 170px;
+    width: 210px;
+    display: block;
+    margin: 25px 450px;
+    border-radius: 100%;
+}
+#item-4 img{
+    height: 170px;
+    width: 210px;
+    display: block;
+    margin: 25px 450px;
+    border-radius: 100%;
+}
+footer{
+     background-color: rgb(84, 84, 84);
+     color: white;
+     text-align: center;
+     border-radius: 30%;
+ }
+ #btn{
+    color: white;
+    display: block;
+    padding: 30px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
