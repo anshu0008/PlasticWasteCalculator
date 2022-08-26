@@ -99,5 +99,8 @@ footer{
         position: relative;
         left:49vw;
     }
-
- }
+    h2{
+        position:relative;
+        left: 80px;
+    }
+}
